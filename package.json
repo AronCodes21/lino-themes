@@ -4,6 +4,20 @@
   "description": "Some VS Code themes, nothing new",
   "publisher": "Lino",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AronCodes21/lino-themes"
+  },
+  "keywords": [
+    "theme",
+    "dark",
+    "dark theme",
+    "ruby",
+    "lino",
+    "best theme",
+    "awesome",
+    "dark ruby"
+  ],
   "engines": {
     "vscode": "^1.65.0"
   },
