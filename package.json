@@ -1,0 +1,22 @@
+{
+  "name": "lino-themes",
+  "displayName": "Lino Themes",
+  "description": "Some VS Code themes, nothing new",
+  "publisher": "Lino",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.65.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Lino - Dark Ruby",
+        "uiTheme": "vs-dark",
+        "path": "./themes/lino-dark-ruby-color-theme.json"
+      }
+    ]
+  }
+}
